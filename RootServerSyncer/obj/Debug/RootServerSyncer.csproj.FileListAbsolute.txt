@@ -1,0 +1,12 @@
+D:\HDD\projects\RootServerSyncer\RootServerSyncer\bin\Debug\RootServerSyncer.exe.config
+D:\HDD\projects\RootServerSyncer\RootServerSyncer\bin\Debug\RootServerSyncer.exe
+D:\HDD\projects\RootServerSyncer\RootServerSyncer\bin\Debug\RootServerSyncer.pdb
+D:\HDD\projects\RootServerSyncer\RootServerSyncer\bin\Debug\AeraClass.dll
+D:\HDD\projects\RootServerSyncer\RootServerSyncer\bin\Debug\MySql.Data.dll
+D:\HDD\projects\RootServerSyncer\RootServerSyncer\bin\Debug\ServiceTools.dll
+D:\HDD\projects\RootServerSyncer\RootServerSyncer\bin\Debug\AeraClass.pdb
+D:\HDD\projects\RootServerSyncer\RootServerSyncer\obj\Debug\RootServerSyncer.exe
+D:\HDD\projects\RootServerSyncer\RootServerSyncer\obj\Debug\RootServerSyncer.pdb
+D:\HDD\Pub\Dropbox\projects2\RootServerSyncer\RootServerSyncer\bin\Debug\RootServerSyncer.exe.config
+D:\HDD\Pub\Dropbox\projects2\RootServerSyncer\RootServerSyncer\obj\Debug\RootServerSyncer.exe
+D:\HDD\Pub\Dropbox\projects2\RootServerSyncer\RootServerSyncer\obj\Debug\RootServerSyncer.pdb
